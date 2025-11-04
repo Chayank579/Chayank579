@@ -23,6 +23,22 @@ Here you'll find a mix of my personal projects, experiments, and open-source con
 
 ---
 
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Chayank&show_icons=true&theme=radical" alt="Chayank's GitHub stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Chayank&theme=radical" alt="Chayank's GitHub streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chayank&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+---
+
 ## 📂 Featured Projects
 
 | Project | Description | Tech Stack |
@@ -33,8 +49,11 @@ Here you'll find a mix of my personal projects, experiments, and open-source con
 
 ---
 
-## 📫 Connect with Me
+##  skills
+![Static Badge](https://img.shields.io/badge/javabeginner-green)
+
+
+---
 
 ⭐ **Thanks for visiting!**  
 If you like my work, consider giving a ⭐ to my repositories or connecting with me!
-
